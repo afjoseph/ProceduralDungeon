@@ -1,3 +1,6 @@
+## Video Demonstration
+https://youtu.be/hcqJHH2kZ_4
+
 ## Lego Method
 
 The lego method will create a random maze based on pre-created "Modules". These modules can be rooms, corridors, stairs, whatever shape you want. Each Module has a "ModuleConnector" object attached to any exit or entrance of that module. 
